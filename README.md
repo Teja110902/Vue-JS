@@ -17,6 +17,5 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### node_modules
-```
+
 Check package-lock.json for required node modules.
-```
